@@ -1,0 +1,37 @@
+
+                  "Bottom" : 0
+               },
+               "Text" : [
+                  {
+                     "Text_translate" : "true",
+                     "Text" : "MY PROJECTS",
+                     "TextStyle" : "h4",
+                     "Text_fr" : "MES PROJETS",
+                     "Text_de" : "MEINE PROJEKTE",
+                     "Text_es" : "MIS PROYECTOS",
+                     "Text_es-MX" : "MIS PROYECTOS",
+                     "Text_ru" : "МОИ ПРОЕКТЫ",
+                     "Text_ko" : "내 프로젝트",
+                     "Text_it" : "I MIEI PROGETTI",
+                     "Text_pl" : "MOJE PROJEKTY",
+                     "Text_ar" : "مشروعاتي",
+                     "Text_ja" : "マイプロジェクト",
+                     "Text_zh-CN" : "我的工程",
+                     "Text_pt-BR" : "MEUS PROJETOS",
+                     "Text_tr" : "PROJELERİM",
+                     "Text_zh-Hans" : "我的工程",
+                     "Text_zh-Hant" : "我的專案",
+                     "Text_th" : "โปรเจกต์ของฉัน"
+                  }
+               ],
+               "ToolTipText_fr" : "Un lieu unique où trouver tous vos projets, quel que soit le moteur installé sur votre machine. Ouvrez avec l'outil de modification associé. Concerne même les clones de projets existants.",
+               "ToolTipText_de" : "Hier findest du alle Projekte jeder Engine, die du installiert hast. Einträge werden mit dem entsprechenden Bearbeitungsprogramm geöffnet. Bestehende Projekte können dupliziert werden.",
+               "ToolTipText_es" : "Un único lugar donde encontrar todos tus proyectos de cualquier motor en tu equipo. Se abre con el editor asociado. También puede clonar los proyectos existentes.",
+               "ToolTipText_es-MX" : "Un solo lugar para encontrar todos tus proyectos para cualquier Engine en tu máquina. Se abre con el editor asociado. Incluso clona los proyectos existentes.",
+               "ToolTipText_ru" : "Отправная точка для поиска всех проектов, использующих любую версию Unreal Engine на вашем компьютере. Открывается с помощью приложенного редактора. Вы даже можете клонировать существующие проекты.",
+               "ToolTipText_ko" : "컴퓨터에 설치된 엔진에서 쓸 수 있는 모든 프로젝트를 찾을 수 있는 곳입니다. 연결된 에디터를 열 수도 있고, 심지어 기존 프로젝트를 복제할 수도 있습니다.",
+               "ToolTipText_it" : "Il luogo in cui trovare tutti i tuoi progetti per qualunque motore sulla tua macchina. Si apre con l'editor associato. Clona anche i progetti esistenti.",
+               "ToolTipText_pl" : "W tym miejscu znajdziesz wszystkie projekty utworzone z użyciem silników zainstalowanych na komputerze. Do otwierania projektów służy odpowiedni edytor. Możesz nawet klonować istniejące projekty.",
+               "ToolTipText_ar" : "إنه مكان واحد؛ حيث يُمكنك تجميع كل مشروعاتك الخاصة بأي محرِّك على جهازك. ويعمل باستخدام المحرّر المصاحب، كما يستنسخ المشاريع القائمة.",
+               "ToolTipText_ja" : "お使いのマシンで利用可能な Engine 用プロジェクトのすべてがここで入手できます。対応エディタで開こう。既存プロジェクトの複製も可能。",
+               "ToolTipText_zh-CN" : "这里显示了各个版本的引擎�
